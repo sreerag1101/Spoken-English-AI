@@ -1,0 +1,7 @@
+{
+  "name": "FluentGen - AI English Tutor",
+  "description": "An immersive AI-powered spoken English application featuring real-time voice chat, grammar correction, and interactive language lessons using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
